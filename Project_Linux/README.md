@@ -1,3 +1,4 @@
-1) Move this folder to Desktop
-2) Rename it from "Project_Linux" to "Project"
-3) Open terminal and run "run.sh" script
+### Installation
+- Open up the terminal and type `chmod +6 run.sh`.
+- Now execute the script, `./run.sh`.
+- Generated output will be in the `Log` folder.
